@@ -55,10 +55,6 @@ include('layout/header.php');
                                 <div>
                                 <a href='functions/edit.php' class="btn btn-warning">Edit</a>
                                 <a href='functions/delete.php' class="btn btn-danger">Delete</a>
-                                    <!-- <div method="DELETE" action="functions/delete.php">
-                                    <button name="delete" class="btn btn-warning">Edit</button>
-                                    </div>
-                                    <button class="btn btn-danger">Delete</button> -->
                                 </div>
 
                             </td>
